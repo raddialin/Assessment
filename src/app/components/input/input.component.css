@@ -1,0 +1,13 @@
+input{
+    clear: left;
+    float: none;
+    width: 11%;
+}
+textarea{
+    resize: none;
+    width: 88%;
+    height: 100%
+}
+form{
+    height:100%;
+}

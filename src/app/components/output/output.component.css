@@ -1,0 +1,19 @@
+textarea{
+    width: 45%;
+    resize: none;
+    height: 90%;
+    display: inline-block;
+    position: absolute;
+    right:0;
+    outline: none;
+}
+app-input{
+    height: 90%;
+    width: 55%;
+    display: inline-block;
+    position: absolute;
+    left:0
+}
+#right{
+    float: right;
+}

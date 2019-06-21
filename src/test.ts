@@ -6,6 +6,8 @@ import {
   BrowserDynamicTestingModule,
   platformBrowserDynamicTesting
 } from '@angular/platform-browser-dynamic/testing';
+import { InputComponent } from '../src/app/components/input/input.component';
+import { OutputComponent } from '../src/app/components/output/output.component';
 
 declare const require: any;
 
